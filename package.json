@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Tobi-mmt/release-playground#readme",
   "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
     "semantic-release": "^17.0.7"
   }
 }
