@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/Tobi-mmt/release-playground/compare/v1.3.0...v1.3.1) (2020-05-15)
+
+
+### Bug Fixes
+
+* This time it is a fix ([576be06](https://github.com/Tobi-mmt/release-playground/commit/576be06be6c62e3dadc6c32396bb0c0851cca491))
+
 # [1.3.0](https://github.com/Tobi-mmt/release-playground/compare/v1.2.0...v1.3.0) (2020-05-15)
 
 
