@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "semantic-release --dry-run"
+    "release": "semantic-release --dry-run --branches feat/11/release"
   },
   "repository": {
     "type": "git",
