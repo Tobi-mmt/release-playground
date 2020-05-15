@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/Tobi-mmt/release-playground/compare/v1.3.1...v1.3.2) (2020-05-15)
+
+
+### Bug Fixes
+
+* A fix for the package lock? we will see.. ([91af848](https://github.com/Tobi-mmt/release-playground/commit/91af8485994e7a0045b6671ddecacb7bdca5dcad))
+
 ## [1.3.1](https://github.com/Tobi-mmt/release-playground/compare/v1.3.0...v1.3.1) (2020-05-15)
 
 
