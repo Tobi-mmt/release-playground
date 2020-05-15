@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/Tobi-mmt/release-playground/compare/v1.3.3...v1.3.4) (2020-05-15)
+
+
+### Bug Fixes
+
+* Lets have a look at PRs with merging ([5ba9d7a](https://github.com/Tobi-mmt/release-playground/commit/5ba9d7ae973fdc6e17b8c9a5c3db7bb13f6fd9fc))
+
 ## [1.3.3](https://github.com/Tobi-mmt/release-playground/compare/v1.3.2...v1.3.3) (2020-05-15)
 
 
