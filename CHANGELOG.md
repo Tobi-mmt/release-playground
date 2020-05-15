@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/Tobi-mmt/release-playground/compare/v1.3.2...v1.3.3) (2020-05-15)
+
+
+### Bug Fixes
+
+* Lets have a look at PRs ([6019f12](https://github.com/Tobi-mmt/release-playground/commit/6019f12991953f18c8006d418dbdf52617e7faf6))
+
 ## [1.3.2](https://github.com/Tobi-mmt/release-playground/compare/v1.3.1...v1.3.2) (2020-05-15)
 
 
